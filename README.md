@@ -1,6 +1,6 @@
 # 📱 Kotlin Responsive DP 🚀
 
-[![](https://jitpack.io/v/pravinRite/mobrite_kotlin_responsive_dp.svg)](https://jitpack.io/#pravinRite/mobrite_kotlin_responsive_dp)
+[![](https://jitpack.io/v/Rite-Technologies-23/mobrite_kotlin_responsive_dp.svg)](https://jitpack.io/#Rite-Technologies-23/mobrite_kotlin_responsive_dp)
 
 > **💡 Purpose:** A lightweight **Jetpack Compose** library that makes your `dp` and `sp`
 > units **responsive** across every screen size. Wrap any dimension with `.rdp` / `.rsp`
@@ -11,14 +11,14 @@
 
 ## Table of Contents
 
-1. ✨ [What's Included](https://github.com/pravinRite/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-whats-included)
-2. 🔧 [Tech Stack](https://github.com/pravinRite/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-tech-stack)
-3. 📋 [Prerequisites](https://github.com/pravinRite/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-prerequisites)
-4. 📦 [Installation (JitPack)](https://github.com/pravinRite/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-installation-jitpack)
-5. 🚀 [Usage](https://github.com/pravinRite/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-usage)
-6. 📐 [How Scaling Works](https://github.com/pravinRite/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-how-scaling-works)
-7. 🎯 [API Reference](https://github.com/pravinRite/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-api-reference)
-8. 📱 [Demo App](https://github.com/pravinRite/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-demo-app)
+1. ✨ [What's Included](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-whats-included)
+2. 🔧 [Tech Stack](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-tech-stack)
+3. 📋 [Prerequisites](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-prerequisites)
+4. 📦 [Installation (JitPack)](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-installation-jitpack)
+5. 🚀 [Usage](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-usage)
+6. 📐 [How Scaling Works](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-how-scaling-works)
+7. 🎯 [API Reference](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-api-reference)
+8. 📱 [Demo App](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-demo-app)
 
 ---
 
@@ -83,12 +83,12 @@ In your **app module's `build.gradle.kts`**:
 
 ```kotlin
 dependencies {
-    implementation("com.github.pravinRite.mobrite_kotlin_responsive_dp:responsive:1.0.1")
+    implementation("com.github.Rite-Technologies-23.mobrite_kotlin_responsive_dp:responsive:1.0.1")
 }
 ```
 
 > **Note:** because this is a multi-module repo, the group id is
-> `com.github.pravinRite.mobrite_kotlin_responsive_dp` and the artifact id is the
+> `com.github.Rite-Technologies-23.mobrite_kotlin_responsive_dp` and the artifact id is the
 > module name `responsive`.
 
 ### 🔨 3. Sync
