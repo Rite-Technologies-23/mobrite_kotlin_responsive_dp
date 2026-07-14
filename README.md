@@ -61,7 +61,7 @@
 ## 📦 Installation (JitPack)
 
 The library is published via [JitPack](https://jitpack.io). Coordinates below use tag
-`1.0.0` — bump the version to whatever release tag you consume.
+`1.0.1` — bump the version to whatever release tag you consume.
 
 ### 📥 1. Add the JitPack Repository
 
@@ -83,7 +83,7 @@ In your **app module's `build.gradle.kts`**:
 
 ```kotlin
 dependencies {
-    implementation("com.github.pravinRite.mobrite_kotlin_responsive_dp:responsive:1.0.0")
+    implementation("com.github.pravinRite.mobrite_kotlin_responsive_dp:responsive:1.0.1")
 }
 ```
 

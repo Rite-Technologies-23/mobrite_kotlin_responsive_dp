@@ -53,7 +53,7 @@ publishing {
             // These values are used for local/other Maven publishing only.
             groupId = "com.rite.responsivedp"
             artifactId = "responsive"
-            version = "1.0.0"
+            version = "1.0.1"
 
             afterEvaluate {
                 from(components["release"])
