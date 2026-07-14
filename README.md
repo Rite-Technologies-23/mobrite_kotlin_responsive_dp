@@ -1,5 +1,7 @@
 # 📱 Kotlin Responsive DP 🚀
 
+[![](https://jitpack.io/v/pravinRite/mobrite_kotlin_responsive_dp.svg)](https://jitpack.io/#pravinRite/mobrite_kotlin_responsive_dp)
+
 > **💡 Purpose:** A lightweight **Jetpack Compose** library that makes your `dp` and `sp`
 > units **responsive** across every screen size. Wrap any dimension with `.rdp` / `.rsp`
 > and it scales automatically — from small phones to large tablets — with **zero**
