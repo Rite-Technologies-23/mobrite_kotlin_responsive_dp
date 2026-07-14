@@ -83,13 +83,13 @@ In your **app module's `build.gradle.kts`**:
 
 ```kotlin
 dependencies {
-    implementation("com.github.Rite-Technologies-23.mobrite_kotlin_responsive_dp:responsive:1.0.1")
+    implementation("com.github.Rite-Technologies-23:mobrite_kotlin_responsive_dp:1.0.1")
 }
 ```
 
-> **Note:** because this is a multi-module repo, the group id is
-> `com.github.Rite-Technologies-23.mobrite_kotlin_responsive_dp` and the artifact id is the
-> module name `responsive`.
+> **Note:** JitPack publishes this repo as a single artifact at the repo-root
+> coordinate — the group id is `com.github.Rite-Technologies-23` and the artifact id
+> is the repo name `mobrite_kotlin_responsive_dp`.
 
 ### 🔨 3. Sync
 

@@ -48,9 +48,11 @@ dependencies {
 publishing {
     publications {
         register<MavenPublication>("release") {
-            // On JitPack the effective coordinate is derived from the repo:
-            //   com.github.<org>.<repo>:responsive:<tag>
-            // These values are used for local/other Maven publishing only.
+            // On JitPack the effective coordinate is derived from the repo — a
+            // single-module repo is published at the repo-root coordinate:
+            //   com.github.<org>:<repo>:<tag>
+            // (e.g. com.github.Rite-Technologies-23:mobrite_kotlin_responsive_dp:1.0.1)
+            // The groupId/artifactId below are used for local/other Maven publishing only.
             groupId = "com.rite.responsivedp"
             artifactId = "responsive"
             version = "1.0.1"
