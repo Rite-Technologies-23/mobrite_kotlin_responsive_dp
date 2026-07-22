@@ -51,7 +51,6 @@
 
 ## 📋 Prerequisites
 
-- **Android Studio** Iguana (2023.2.1) or newer.
 - **JDK 17** configured in Android Studio.
 - **Android SDK 36** installed via SDK Manager.
 - Consuming app **`minSdk` 21+** with **Jetpack Compose** enabled.
