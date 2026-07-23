@@ -61,7 +61,7 @@
 ## 📦 Installation (JitPack)
 
 The library is published via [JitPack](https://jitpack.io). Coordinates below use tag
-`1.0.1` — bump the version to whatever release tag you consume.
+`1.0.2` — bump the version to whatever release tag you consume.
 
 ### 📥 1. Add the JitPack Repository
 
@@ -83,7 +83,7 @@ In your **app module's `build.gradle.kts`**:
 
 ```kotlin
 dependencies {
-    implementation("com.github.Rite-Technologies-23:mobrite_kotlin_responsive_dp:1.0.1")
+    implementation("com.github.Rite-Technologies-23:mobrite_kotlin_responsive_dp:1.0.2")
 }
 ```
 
@@ -182,4 +182,4 @@ emulators.
 
 ## 📄 License
 
-Distributed under the [MIT License](LICENSE).
+Distributed under the [BSD 3-Clause License](LICENSE).
