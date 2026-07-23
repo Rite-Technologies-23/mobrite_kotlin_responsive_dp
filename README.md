@@ -11,14 +11,35 @@
 
 ## Table of Contents
 
-1. ✨ [What's Included](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-whats-included)
-2. 🔧 [Tech Stack](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-tech-stack)
-3. 📋 [Prerequisites](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-prerequisites)
-4. 📦 [Installation (JitPack)](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-installation-jitpack)
-5. 🚀 [Usage](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-usage)
-6. 📐 [How Scaling Works](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-how-scaling-works)
-7. 🎯 [API Reference](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-api-reference)
-8. 📱 [Demo App](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-demo-app)
+1. 📸 [Screenshots](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-screenshots)
+2. ✨ [What's Included](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-whats-included)
+3. 🔧 [Tech Stack](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-tech-stack)
+4. 📋 [Prerequisites](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-prerequisites)
+5. 📦 [Installation (JitPack)](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-installation-jitpack)
+6. 🚀 [Usage](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-usage)
+7. 📐 [How Scaling Works](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-how-scaling-works)
+8. 🎯 [API Reference](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-api-reference)
+9. 📱 [Demo App](https://github.com/Rite-Technologies-23/mobrite_kotlin_responsive_dp/?tab=readme-ov-file#-demo-app)
+
+---
+
+## 📸 Screenshots
+
+The **same demo screen** rendered on a phone and a tablet. Notice how the `.rsp` text and
+`.rdp` box sizes scale **up** automatically on the larger screen — no `when (screenWidth)`
+blocks, no separate layouts. In every block the first line uses standard `sp`/`dp` and the
+line below it uses the library's `.rsp`/`.rdp`.
+
+<table>
+  <tr>
+    <td align="center"><b>📱 Phone</b> — compact</td>
+    <td align="center"><b>📟 Tablet</b> — scaled up</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="screenshots/phone.png" width="300" alt="ResponsiveDp demo running on a phone" /></td>
+    <td valign="top"><img src="screenshots/tablet.png" width="430" alt="ResponsiveDp demo running on a tablet" /></td>
+  </tr>
+</table>
 
 ---
 
